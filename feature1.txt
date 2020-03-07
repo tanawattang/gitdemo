@@ -1,2 +1,2 @@
-- stock
-- promotion
+- stock V1
+- promotion V1
